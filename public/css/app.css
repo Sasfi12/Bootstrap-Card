@@ -6,9 +6,24 @@ body {
   width: 100vw;
   height: 100vh;
 }
-body .container img {
-  height: 40rem;
-  width: 40rem;
+body .container {
+  display: flex;
+  width: 80vw;
+  height: 80vh;
+}
+body .container .image {
+  flex-basis: 100%;
+  padding: 0;
+  border: none;
+}
+body .container .image img {
+  width: 50vw;
+  height: 50vh;
+  padding: 0;
+  border: none;
+}
+body .container .content {
+  flex-basis: 100%;
 }
 
 /*!
