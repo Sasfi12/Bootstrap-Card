@@ -1,0 +1,22 @@
+{
+  "name": "4_card_pinterest",
+  "version": "1.0.0",
+  "description": "A bootstrap card project",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sasfi12/Bootstrap-Card.git"
+  },
+  "author": "Sufyan Muhammad",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Sasfi12/Bootstrap-Card/issues"
+  },
+  "homepage": "https://github.com/Sasfi12/Bootstrap-Card#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
