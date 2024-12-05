@@ -1,7 +1,16 @@
 @charset "UTF-8";
 @module ./_variables;
 @module ./_mixins;
-@module modules/_styles;
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+}
+body .container img {
+  height: 200rem;
+  width: 200rem;
+}
+
 /*!
  * Bootstrap  v5.3.3 (https://getbootstrap.com/)
  * Copyright 2011-2024 The Bootstrap Authors
